@@ -70,7 +70,7 @@ Quick summary in `notes/big-o-cheatsheet.md`.
 
 | Plataforma | Easy | Medium | Hard | Total |
 |---|---:|---:|---:|---:|
-| LeetCode | 1 | 0 | 0 | 1 |
+| LeetCode | 2 | 0 | 0 | 2 |
 | HackerRank | 0 | 0 | 0 | 0 |
 
 ## Stack
