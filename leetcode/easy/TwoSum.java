@@ -1,7 +1,4 @@
-import java.util.HashMap;
-import java.util.Map;
-
-/**
+/*
  * Problem: Two Sum
  * Platform: LeetCode
  * Difficulty: Easy
@@ -15,6 +12,9 @@ import java.util.Map;
  * Time Complexity: O(n)
  * Space Complexity: O(n)
  */
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class TwoSum {
     // -----------------------------------
